@@ -2,13 +2,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Densel Esekon" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Densel+Esekon" alt="Title">Full Stack Engineer</img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: **Full Name:** Densel Esekon />
-- :school: **Alma Mater:** IT Graduated
+- :school: **Meru Univesity of Science and Technology:** IT Graduated
 - :books: **Major:** Specializing in React, Nextjs, Python, Full-Stack Development, and DevOps
 - :earth_asia: **Location:** Currently residing in Nairobi, kenya
 - :sweat_smile: **Proficiency:** Intermediate in coding :penguin:
@@ -92,7 +92,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/denselesekon" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/Esekon 'D" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://twitter.com/name" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 </p>
 
 <!--profile visit count-->
