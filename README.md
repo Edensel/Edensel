@@ -10,6 +10,8 @@
   </ul>
 </div>
 
+<img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me 
 
 - :credit_card: **Full Name:** Densel Esekon />
